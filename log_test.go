@@ -10,7 +10,7 @@ var (
 )
 
 func TestInitLogger(t *testing.T) {
-	//NewLogger("testLog", "/Users/hank-for-work/Desktop/go/src/github.com/HankWang95/log")
+	NewLogger("testLog", "/Users/hank-for-work/Desktop/go/src/github.com/HankWang95/log")
 }
 
 func TestError(t *testing.T) {
