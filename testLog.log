@@ -1,0 +1,552 @@
+testLog2018/11/23 11:38:34 log.go:32: [91mtest1 are you ok?
+[0m
+testLog2018/11/23 11:39:45 log.go:33: [91mtest1 are you ok?
+[0m
+testLog2018/11/23 11:39:45 log.go:33: [91mtest1 are you ok?
+[0m
+testLog2018/11/23 11:39:45 log.go:33: [91mtest1 are you ok?
+[0m
+testLog2018/11/23 11:39:45 log.go:33: [91mtest1 are you ok?
+[0m
+testLog2018/11/23 11:39:45 log.go:33: [91mtest1 are you ok?
+[0m
+testLog2018/11/23 11:39:45 log.go:33: [91mtest1 are you ok?
+[0m
+testLog2018/11/23 11:39:45 log.go:33: [91mtest1 are you ok?
+[0m
+testLog2018/11/23 11:39:45 log.go:33: [91mtest1 are you ok?
+[0m
+testLog2018/11/23 11:39:45 log.go:33: [91mtest1 are you ok?
+[0m
+testLog11:43:27 log.go:33: [91mtest1 are you ok?
+[0m
+testLog11:43:27 log.go:33: [91mtest1 are you ok?
+[0m
+testLog11:43:27 log.go:33: [91mtest1 are you ok?
+[0m
+testLog11:43:27 log.go:33: [91mtest1 are you ok?
+[0m
+testLog11:43:27 log.go:33: [91mtest1 are you ok?
+[0m
+testLog11:43:27 log.go:33: [91mtest1 are you ok?
+[0m
+testLog11:43:27 log.go:33: [91mtest1 are you ok?
+[0m
+testLog11:43:27 log.go:33: [91mtest1 are you ok?
+[0m
+testLog11:43:27 log.go:33: [91mtest1 are you ok?
+[0m
+11:43:58 log.go:33: [91mtest1 are you ok?
+[0m
+11:43:58 log.go:33: [91mtest1 are you ok?
+[0m
+11:43:58 log.go:33: [91mtest1 are you ok?
+[0m
+11:43:58 log.go:33: [91mtest1 are you ok?
+[0m
+11:43:58 log.go:33: [91mtest1 are you ok?
+[0m
+11:43:58 log.go:33: [91mtest1 are you ok?
+[0m
+11:43:58 log.go:33: [91mtest1 are you ok?
+[0m
+11:43:58 log.go:33: [91mtest1 are you ok?
+[0m
+11:43:58 log.go:33: [91mtest1 are you ok?
+[0m
+[91m[ERRO]
+[0m11:46:08 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO]
+[0m11:46:08 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO]
+[0m11:46:08 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO]
+[0m11:46:08 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO]
+[0m11:46:08 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO]
+[0m11:46:08 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO]
+[0m11:46:08 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO]
+[0m11:46:08 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO]
+[0m11:46:08 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m11:46:51 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m11:46:51 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m11:46:51 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m11:46:51 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m11:46:51 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m11:46:51 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m11:46:51 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m11:46:51 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m11:46:51 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m11:48:04 log.go:32: [91mtest1areyouok?[0m
+[91m[ERRO][0m11:48:04 log.go:32: [91mtest1areyouok?[0m
+[91m[ERRO][0m11:48:04 log.go:32: [91mtest1areyouok?[0m
+[91m[ERRO][0m11:48:04 log.go:32: [91mtest1areyouok?[0m
+[91m[ERRO][0m11:48:28 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m11:48:28 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m11:48:28 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m11:48:28 log.go:32: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m11:49:22 log.go:32: [91mtest1areyouok?[0m
+[91m[ERRO][0m11:49:22 log.go:32: [91mtest1areyouok?[0m
+[91m[ERRO][0m11:49:22 log.go:32: [91mtest1areyouok?[0m
+[91m[ERRO][0m11:49:22 log.go:32: [91mtest1areyouok?[0m
+[91m[ERRO][0m11:56:46 log.go:36: [91mtest1areyouok?[0m
+[91m[ERRO][0m11:56:46 log.go:36: [91mtest1areyouok?[0m
+[91m[ERRO][0m11:56:46 log.go:36: [91mtest1areyouok?[0m
+[91m[ERRO][0m11:56:46 log.go:36: [91mtest1areyouok?[0m
+[94m[DEBUG][0m11:56:46 log.go:43: [94mtest2areyouok?[0m
+[94m[DEBUG][0m11:56:46 log.go:43: [94mtest2areyouok?[0m
+[94m[DEBUG][0m11:56:46 log.go:43: [94mtest2areyouok?[0m
+[94m[DEBUG][0m11:56:46 log.go:43: [94mtest2areyouok?[0m
+[91m[ERRO][0m11:58:18 log.go:36: [91mtest1areyouok?[0m
+[91m[ERRO][0m11:58:18 log.go:36: [91mtest1areyouok?[0m
+[91m[ERRO][0m11:58:18 log.go:36: [91mtest1areyouok?[0m
+[91m[ERRO][0m11:58:18 log.go:36: [91mtest1areyouok?[0m
+[94m[DEBUG][0m11:58:18 log.go:43: [94mtest2areyouok?[0m
+[94m[DEBUG][0m11:58:18 log.go:43: [94mtest2areyouok?[0m
+[94m[DEBUG][0m11:58:18 log.go:43: [94mtest2areyouok?[0m
+[94m[DEBUG][0m11:58:18 log.go:43: [94mtest2areyouok?[0m
+[92m[ERRO][0m2018/11/23 11:58:18 [92mtest3areyouok?[0m
+[92m[ERRO][0m2018/11/23 11:58:18 [92mtest3areyouok?[0m
+[92m[ERRO][0m2018/11/23 11:58:18 [92mtest3areyouok?[0m
+[92m[ERRO][0m2018/11/23 11:58:18 [92mtest3areyouok?[0m
+[91m[ERRO][0m13:03:09 log.go:36: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m13:03:09 log.go:36: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m13:03:09 log.go:36: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m13:03:09 log.go:36: [91mtest1 are you ok?
+[0m
+[94m[DEBUG][0m13:03:09 log.go:43: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:03:09 log.go:43: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:03:09 log.go:43: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:03:09 log.go:43: [94mtest2 are you ok?
+[0m
+[92m[ERRO][0m2018/11/23 13:03:09 [92mtest3areyouok?[0m
+[92m[ERRO][0m2018/11/23 13:03:09 [92mtest3areyouok?[0m
+[92m[ERRO][0m2018/11/23 13:03:09 [92mtest3areyouok?[0m
+[92m[ERRO][0m2018/11/23 13:03:09 [92mtest3areyouok?[0m
+[81m[ERRO][0m13:03:34 log.go:36: [81mtest1 are you ok?
+[0m
+[81m[ERRO][0m13:03:34 log.go:36: [81mtest1 are you ok?
+[0m
+[81m[ERRO][0m13:03:34 log.go:36: [81mtest1 are you ok?
+[0m
+[81m[ERRO][0m13:03:34 log.go:36: [81mtest1 are you ok?
+[0m
+[84m[DEBUG][0m13:03:34 log.go:43: [84mtest2 are you ok?
+[0m
+[84m[DEBUG][0m13:03:34 log.go:43: [84mtest2 are you ok?
+[0m
+[84m[DEBUG][0m13:03:34 log.go:43: [84mtest2 are you ok?
+[0m
+[84m[DEBUG][0m13:03:34 log.go:43: [84mtest2 are you ok?
+[0m
+[82m[ERRO][0m2018/11/23 13:03:34 [82mtest3areyouok?[0m
+[82m[ERRO][0m2018/11/23 13:03:34 [82mtest3areyouok?[0m
+[82m[ERRO][0m2018/11/23 13:03:34 [82mtest3areyouok?[0m
+[82m[ERRO][0m2018/11/23 13:03:34 [82mtest3areyouok?[0m
+[91m[ERRO][0m13:03:46 log.go:36: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m13:03:46 log.go:36: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m13:03:46 log.go:36: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m13:03:46 log.go:36: [91mtest1 are you ok?
+[0m
+[94m[DEBUG][0m13:03:46 log.go:43: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:03:46 log.go:43: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:03:46 log.go:43: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:03:46 log.go:43: [94mtest2 are you ok?
+[0m
+[92m[ERRO][0m2018/11/23 13:03:46 [92mtest3areyouok?[0m
+[92m[ERRO][0m2018/11/23 13:03:46 [92mtest3areyouok?[0m
+[92m[ERRO][0m2018/11/23 13:03:46 [92mtest3areyouok?[0m
+[92m[ERRO][0m2018/11/23 13:03:46 [92mtest3areyouok?[0m
+[92m[ERRO][0m13:03:58 log.go:36: [92mtest1 are you ok?
+[0m
+[92m[ERRO][0m13:03:58 log.go:36: [92mtest1 are you ok?
+[0m
+[92m[ERRO][0m13:03:58 log.go:36: [92mtest1 are you ok?
+[0m
+[92m[ERRO][0m13:03:58 log.go:36: [92mtest1 are you ok?
+[0m
+[95m[DEBUG][0m13:03:58 log.go:43: [95mtest2 are you ok?
+[0m
+[95m[DEBUG][0m13:03:58 log.go:43: [95mtest2 are you ok?
+[0m
+[95m[DEBUG][0m13:03:58 log.go:43: [95mtest2 are you ok?
+[0m
+[95m[DEBUG][0m13:03:58 log.go:43: [95mtest2 are you ok?
+[0m
+[93m[ERRO][0m2018/11/23 13:03:58 [93mtest3areyouok?[0m
+[93m[ERRO][0m2018/11/23 13:03:58 [93mtest3areyouok?[0m
+[93m[ERRO][0m2018/11/23 13:03:58 [93mtest3areyouok?[0m
+[93m[ERRO][0m2018/11/23 13:03:58 [93mtest3areyouok?[0m
+[91m[ERRO][0m13:04:11 log.go:36: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m13:04:11 log.go:36: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m13:04:11 log.go:36: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m13:04:11 log.go:36: [91mtest1 are you ok?
+[0m
+[94m[DEBUG][0m13:04:11 log.go:43: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:04:11 log.go:43: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:04:11 log.go:43: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:04:11 log.go:43: [94mtest2 are you ok?
+[0m
+[92m[ERRO][0m2018/11/23 13:04:11 [92mtest3areyouok?[0m
+[92m[ERRO][0m2018/11/23 13:04:11 [92mtest3areyouok?[0m
+[92m[ERRO][0m2018/11/23 13:04:11 [92mtest3areyouok?[0m
+[92m[ERRO][0m2018/11/23 13:04:11 [92mtest3areyouok?[0m
+[91m[ERRO][0m13:10:19 log.go:36: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m13:10:19 log.go:36: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m13:10:19 log.go:36: [91mtest1 are you ok?
+[0m
+[91m[ERRO][0m13:10:19 log.go:36: [91mtest1 are you ok?
+[0m
+[94m[DEBUG][0m13:10:19 log.go:43: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:10:19 log.go:43: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:10:19 log.go:43: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:10:19 log.go:43: [94mtest2 are you ok?
+[0m
+[92m[INFO][0m2018/11/23 13:10:19 [92mtest3areyouok?[0m
+[92m[INFO][0m2018/11/23 13:10:19 [92mtest3areyouok?[0m
+[92m[INFO][0m2018/11/23 13:10:19 [92mtest3areyouok?[0m
+[92m[INFO][0m2018/11/23 13:10:19 [92mtest3areyouok?[0m
+[91m[ERROR][0m13:10:58 log.go:36: [91mtest1 are you ok?
+[0m
+[91m[ERROR][0m13:10:58 log.go:36: [91mtest1 are you ok?
+[0m
+[91m[ERROR][0m13:10:58 log.go:36: [91mtest1 are you ok?
+[0m
+[91m[ERROR][0m13:10:58 log.go:36: [91mtest1 are you ok?
+[0m
+[94m[DEBUG][0m13:10:58 log.go:43: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:10:58 log.go:43: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:10:58 log.go:43: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:10:58 log.go:43: [94mtest2 are you ok?
+[0m
+[92m[INFO] [0m2018/11/23 13:10:58 [92mtest3areyouok?[0m
+[92m[INFO] [0m2018/11/23 13:10:58 [92mtest3areyouok?[0m
+[92m[INFO] [0m2018/11/23 13:10:58 [92mtest3areyouok?[0m
+[92m[INFO] [0m2018/11/23 13:10:58 [92mtest3areyouok?[0m
+[91m[ERROR][0m13:12:17 log.go:36: [91mtest1 are you ok?
+[0m
+[91m[ERROR][0m13:12:17 log.go:36: [91mtest1 are you ok?
+[0m
+[91m[ERROR][0m13:12:17 log.go:36: [91mtest1 are you ok?
+[0m
+[91m[ERROR][0m13:12:17 log.go:36: [91mtest1 are you ok?
+[0m
+[94m[DEBUG][0m13:12:17 log.go:43: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:12:17 log.go:43: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:12:17 log.go:43: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:12:17 log.go:43: [94mtest2 are you ok?
+[0m
+[92m[INFO] [0m2018/11/23 13:12:17 [92mtest3 are you ok?
+[0m
+[92m[INFO] [0m2018/11/23 13:12:17 [92mtest3 are you ok?
+[0m
+[92m[INFO] [0m2018/11/23 13:12:17 [92mtest3 are you ok?
+[0m
+[92m[INFO] [0m2018/11/23 13:12:17 [92mtest3 are you ok?
+[0m
+[91m[ERROR][0m13:23:01 log.go:41: [91mtest1 are you ok?
+[0m
+[91m[ERROR][0m13:23:01 log.go:41: [91mtest1 are you ok?
+[0m
+[91m[ERROR][0m13:23:01 log.go:41: [91mtest1 are you ok?
+[0m
+[91m[ERROR][0m13:23:01 log.go:41: [91mtest1 are you ok?
+[0m
+[94m[DEBUG][0m13:23:01 log.go:48: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:23:01 log.go:48: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:23:01 log.go:48: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:23:01 log.go:48: [94mtest2 are you ok?
+[0m
+[92m[INFO] [0m2018/11/23 13:23:01 [92mtest3 are you ok?
+[0m
+[92m[INFO] [0m2018/11/23 13:23:01 [92mtest3 are you ok?
+[0m
+[92m[INFO] [0m2018/11/23 13:23:01 [92mtest3 are you ok?
+[0m
+[92m[INFO] [0m2018/11/23 13:23:01 [92mtest3 are you ok?
+[0m
+[91m[ERROR][0m13:27:22 log.go:41: [91mtest1 are you ok?
+[0m
+[91m[ERROR][0m13:27:22 log.go:41: [91mtest1 are you ok?
+[0m
+[91m[ERROR][0m13:27:22 log.go:41: [91mtest1 are you ok?
+[0m
+[91m[ERROR][0m13:27:22 log.go:41: [91mtest1 are you ok?
+[0m
+[94m[DEBUG][0m13:27:22 log.go:48: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:27:22 log.go:48: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:27:22 log.go:48: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:27:22 log.go:48: [94mtest2 are you ok?
+[0m
+[92m[INFO] [0m2018/11/23 13:27:22 [92mtest3 are you ok?
+[0m
+[92m[INFO] [0m2018/11/23 13:27:22 [92mtest3 are you ok?
+[0m
+[92m[INFO] [0m2018/11/23 13:27:22 [92mtest3 are you ok?
+[0m
+[92m[INFO] [0m2018/11/23 13:27:22 [92mtest3 are you ok?
+[0m
+[91m[ERROR][0m13:27:29 log.go:41: [91mtest1 are you ok?
+[0m
+[91m[ERROR][0m13:27:29 log.go:41: [91mtest1 are you ok?
+[0m
+[91m[ERROR][0m13:27:29 log.go:41: [91mtest1 are you ok?
+[0m
+[91m[ERROR][0m13:27:29 log.go:41: [91mtest1 are you ok?
+[0m
+[94m[DEBUG][0m13:27:29 log.go:48: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:27:29 log.go:48: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:27:29 log.go:48: [94mtest2 are you ok?
+[0m
+[94m[DEBUG][0m13:27:29 log.go:48: [94mtest2 are you ok?
+[0m
+[92m[INFO] [0m2018/11/23 13:27:29 [92mtest3 are you ok?
+[0m
+[92m[INFO] [0m2018/11/23 13:27:29 [92mtest3 are you ok?
+[0m
+[92m[INFO] [0m2018/11/23 13:27:29 [92mtest3 are you ok?
+[0m
+[92m[INFO] [0m2018/11/23 13:27:29 [92mtest3 are you ok?
+[0m
+[91mtest1 are you ok?
+[0m[91mtest1 are you ok?
+[0m[91mtest1 are you ok?
+[0m[91mtest1 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[91m17768014/Users/hank-for-work/Desktop/go/src/github.com/HankWang95/log/log_test.go10[test1 are you ok?][0m[91m17768014/Users/hank-for-work/Desktop/go/src/github.com/HankWang95/log/log_test.go10[test1 are you ok?][0m[91m17768014/Users/hank-for-work/Desktop/go/src/github.com/HankWang95/log/log_test.go10[test1 are you ok?][0m[91m17768014/Users/hank-for-work/Desktop/go/src/github.com/HankWang95/log/log_test.go10[test1 are you ok?][0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[91m17768014/Users/hank-for-work/Desktop/go/src/github.com/HankWang95/log/log_test.go10 [test1 are you ok?]
+[0m[91m17768014/Users/hank-for-work/Desktop/go/src/github.com/HankWang95/log/log_test.go10 [test1 are you ok?]
+[0m[91m17768014/Users/hank-for-work/Desktop/go/src/github.com/HankWang95/log/log_test.go10 [test1 are you ok?]
+[0m[91m17768014/Users/hank-for-work/Desktop/go/src/github.com/HankWang95/log/log_test.go10 [test1 are you ok?]
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[91mgithub.com/HankWang95/log.TestError10 [test1 are you ok?]
+[0m[91mgithub.com/HankWang95/log.TestError10 [test1 are you ok?]
+[0m[91mgithub.com/HankWang95/log.TestError10 [test1 are you ok?]
+[0m[91mgithub.com/HankWang95/log.TestError10 [test1 are you ok?]
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[91mgithub.com/HankWang95/log.TestError10 [test1 are you ok?]
+[0m[91mgithub.com/HankWang95/log.TestError10 [test1 are you ok?]
+[0m[91mgithub.com/HankWang95/log.TestError10 [test1 are you ok?]
+[0m[91mgithub.com/HankWang95/log.TestError10 [test1 are you ok?]
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[91mgithub.com/HankWang95/log.TestError:10 [test1 are you ok?]
+[0m[91mgithub.com/HankWang95/log.TestError:10 [test1 are you ok?]
+[0m[91mgithub.com/HankWang95/log.TestError:10 [test1 are you ok?]
+[0m[91mgithub.com/HankWang95/log.TestError:10 [test1 are you ok?]
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[91m[ERROR] github.com/HankWang95/log.TestError:10 [test1 are you ok?]
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[91m[ERROR] github.com/HankWang95/log.TestError:10 [test1 are you ok?]
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[91m[ERROR] github.com/HankWang95/log.TestError:10 [test1 are you ok?]
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[94mtest2 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[92mtest3 are you ok?
+[0m[91m[ERROR] github.com/HankWang95/log.TestError:10 [test1 are you ok?]
+[0m[94m[DEBUG] github.com/HankWang95/log.TestDebug:14 [test2 are you ok?]
+[0m[92m[INFO]  [test3 are you ok?]
+[0m[91m[ERROR] 2018-11-23 14:15:25 github.com/HankWang95/log.TestError:10 [test1 are you ok?]
+[0m[94m[DEBUG] github.com/HankWang95/log.TestDebug:14 [test2 are you ok?]
+[0m[92m[INFO]  [test3 are you ok?]
+[0m[91m[ERROR] 2018-11-23 14:16:10 github.com/HankWang95/log.TestError:10 [test1 are you ok?]
+[0m[94m[DEBUG] 2018-11-23 14:16:10 github.com/HankWang95/log.TestDebug:14 [test2 are you ok?]
+[0m[92m[INFO]  2018-11-23 14:16:10 [test3 are you ok?]
+[0m[91m[ERROR] 2018-11-23 14:17:29 github.com/HankWang95/log.TestError:17 [test1 are you ok? new error]
+[0m[94m[DEBUG] 2018-11-23 14:17:29 github.com/HankWang95/log.TestDebug:21 [test2 are you ok?]
+[0m[92m[INFO]  2018-11-23 14:17:29 [test3 are you ok?]
+[0m[91m[ERROR] 2018-11-23 14:18:09 github.com/HankWang95/log.TestError:17 test1areyouok?new error
+[0m[94m[DEBUG] 2018-11-23 14:18:09 github.com/HankWang95/log.TestDebug:21 [test2 are you ok?]
+[0m[92m[INFO]  2018-11-23 14:18:09 [test3 are you ok?]
+[0m[91m[ERROR] 2018-11-23 14:18:19 github.com/HankWang95/log.TestError:17 test1 are you ok? new error
+
+[0m[94m[DEBUG] 2018-11-23 14:18:19 github.com/HankWang95/log.TestDebug:21 [test2 are you ok?]
+[0m[92m[INFO]  2018-11-23 14:18:19 [test3 are you ok?]
+[0m[91m[ERROR] 2018-11-23 14:18:51 github.com/HankWang95/log.TestError:17 test1 are you ok? new error
+
+[0m[94m[DEBUG] 2018-11-23 14:18:51 github.com/HankWang95/log.TestDebug:21 [test2 are you ok?]
+[0m[92m[INFO]  2018-11-23 14:18:51 [test3 are you ok?]
+[0m[91m[ERROR] 2018-11-23 14:19:37 github.com/HankWang95/log.TestError:17 # test1 are you ok? new error
+
+[0m[94m[DEBUG] 2018-11-23 14:19:37 github.com/HankWang95/log.TestDebug:21 [test2 are you ok?]
+[0m[92m[INFO]  2018-11-23 14:19:37 [test3 are you ok?]
+[0m[91m[ERROR] 2018-11-23 14:19:54 github.com/HankWang95/log.TestError:17 @ test1 are you ok? new error
+
+[0m[94m[DEBUG] 2018-11-23 14:19:54 github.com/HankWang95/log.TestDebug:21 [test2 are you ok?]
+[0m[92m[INFO]  2018-11-23 14:19:54 [test3 are you ok?]
+[0m[91m[ERROR] 2018-11-23 14:20:25 github.com/HankWang95/log.TestError:17 $ test1 are you ok? new error
+
+[0m[94m[DEBUG] 2018-11-23 14:20:25 github.com/HankWang95/log.TestDebug:21 [test2 are you ok?]
+[0m[92m[INFO]  2018-11-23 14:20:25 [test3 are you ok?]
+[0m[91m[ERROR] 2018-11-23 14:20:53 github.com/HankWang95/log.TestError:17 $ test1 are you ok? new error
+
+[0m[94m[DEBUG] 2018-11-23 14:20:53 github.com/HankWang95/log.TestDebug:21 $ test2 are you ok?
+
+[0m[92m[INFO]  2018-11-23 14:20:53 $ test3 are you ok?
+
+[0m[91m[ERROR] 2018-11-23 14:20:58 github.com/HankWang95/log.TestError:17 $ test1 are you ok? new error
+
+[0m[94m[DEBUG] 2018-11-23 14:20:58 github.com/HankWang95/log.TestDebug:21 $ test2 are you ok?
+
+[0m[92m[INFO]  2018-11-23 14:20:58 $ test3 are you ok?
+
+[0m[91m[ERROR] 2018-11-23 14:31:31 github.com/HankWang95/log.TestError:17 $ test1 are you ok? new error
+
+[0m[94m[DEBUG] 2018-11-23 14:31:31 github.com/HankWang95/log.TestDebug:21 $ test2 are you ok?
+
+[0m[92m[INFO]  2018-11-23 14:31:31 $ test3 are you ok?
+
+[0m[92m[ERROR] 2018-11-23 14:32:10 github.com/HankWang95/log.TestError:17 $ test1 are you ok? new error
+
+[0m[94m[DEBUG] 2018-11-23 14:32:10 github.com/HankWang95/log.TestDebug:21 $ test2 are you ok?
+
+[0m[92m[INFO]  2018-11-23 14:32:10 $ test3 are you ok?
+
+[0m[95m[ERROR] 2018-11-23 14:32:25 github.com/HankWang95/log.TestError:17 $ test1 are you ok? new error
+
+[0m[94m[DEBUG] 2018-11-23 14:32:25 github.com/HankWang95/log.TestDebug:21 $ test2 are you ok?
+
+[0m[92m[INFO]  2018-11-23 14:32:25 $ test3 are you ok?
+
+[0m[91m[ERROR] 2018-11-23 14:32:52 github.com/HankWang95/log.TestError:17 $ test1 are you ok? new error
+
+[0m[95m[DEBUG] 2018-11-23 14:32:52 github.com/HankWang95/log.TestDebug:21 $ test2 are you ok?
+
+[0m[92m[INFO]  2018-11-23 14:32:52 $ test3 are you ok?
+
+[0m[91m[ERROR] 2018-11-23 14:33:23 github.com/HankWang95/log.TestError:17 $ test1 are you ok? new error
+
+[0m[93m[DEBUG] 2018-11-23 14:33:23 github.com/HankWang95/log.TestDebug:21 $ test2 are you ok?
+
+[0m[92m[INFO]  2018-11-23 14:33:23 $ test3 are you ok?
+
+[0m[91m[ERROR] 2018-11-23 14:39:56 github.com/HankWang95/log.TestError:17 $ test1 are you ok? new error
+
+[0m[93m[DEBUG] 2018-11-23 14:39:56 github.com/HankWang95/log.TestDebug:21 $ test2 are you ok?
+
+[0m[92m[INFO]  2018-11-23 14:39:56 $ test3 are you ok?
+
+[0m
