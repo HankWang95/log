@@ -31,7 +31,7 @@ func Error(v ...interface{}) {
 	checkLogFile()
 	line := getCodeLine(2)
 	t := getTimeFormat()
-	s := red(fmt.Sprintln(erro, t, line, "$", fmt.Sprintln(v...)))
+	s := red(fmt.Sprintf("%s [%s] [%s] %s",erro, t, line,  fmt.Sprintln(v...)))
 	logFile.WriteString(s)
 }
 
@@ -39,7 +39,7 @@ func Debug(v ...interface{}) {
 	checkLogFile()
 	line := getCodeLine(2)
 	t := getTimeFormat()
-	s := yellow(fmt.Sprintln(debug, t, line, "$", fmt.Sprintln(v...)))
+	s := yellow(fmt.Sprintf("%s [%s] [%s] %s",debug, t, line,  fmt.Sprintln(v...)))
 	logFile.WriteString(s)
 
 }
@@ -47,16 +47,18 @@ func Debug(v ...interface{}) {
 func Info(v ...interface{}) {
 	checkLogFile()
 	t := getTimeFormat()
-	s := green(fmt.Sprintln(info, t, "$", fmt.Sprintln(v...)))
+	s := green(fmt.Sprintf("%s [%s] %s",info, t, fmt.Sprintln(v...)))
 	logFile.WriteString(s)
 
 }
 
 func getCodeLine(depth int) (content string) {
-	pc, _, line, ok := runtime.Caller(depth)
-	f := runtime.FuncForPC(pc)
+	_, file, line, ok := runtime.Caller(depth)
+	//f := runtime.FuncForPC(pc)
+	_, f := path.Split(file)
 	if ok {
-		content = fmt.Sprint(f.Name(), ":", line)
+		//content = fmt.Sprint(f.Name(), ":", line)
+		content = fmt.Sprint(f, ":", line)
 	}
 	return content
 }
