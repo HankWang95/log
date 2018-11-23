@@ -2,7 +2,7 @@
 A Golang log Third-party libraries .
 
 
-![image](http://github.com/HankWang96/readme_add_pic/raw/master/images/example.png)
+![image](http://github.com/HankWang95/log/raw/master/images/example.png)
 
 ---
 
