@@ -9,7 +9,7 @@ const (
 	color_green
 	color_yellow
 	color_blue
-	color_magenta //洋红
+	color_magenta
 )
 
 func red(s string) string {

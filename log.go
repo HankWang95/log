@@ -31,7 +31,7 @@ func Error(v ...interface{}) {
 	checkLogFile()
 	line := getCodeLine(2)
 	t := getTimeFormat()
-	s := red(fmt.Sprintf("%s [%s] [%s] %s",erro, t, line,  fmt.Sprintln(v...)))
+	s := red(fmt.Sprintf("%s [%s] [%s] %s", erro, t, line, fmt.Sprintln(v...)))
 	logFile.WriteString(s)
 }
 
@@ -39,7 +39,7 @@ func Debug(v ...interface{}) {
 	checkLogFile()
 	line := getCodeLine(2)
 	t := getTimeFormat()
-	s := yellow(fmt.Sprintf("%s [%s] [%s] %s",debug, t, line,  fmt.Sprintln(v...)))
+	s := yellow(fmt.Sprintf("%s [%s] [%s] %s", debug, t, line, fmt.Sprintln(v...)))
 	logFile.WriteString(s)
 
 }
@@ -47,7 +47,7 @@ func Debug(v ...interface{}) {
 func Info(v ...interface{}) {
 	checkLogFile()
 	t := getTimeFormat()
-	s := green(fmt.Sprintf("%s [%s] %s",info, t, fmt.Sprintln(v...)))
+	s := green(fmt.Sprintf("%s [%s] %s", info, t, fmt.Sprintln(v...)))
 	logFile.WriteString(s)
 
 }
