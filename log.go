@@ -27,6 +27,15 @@ func NewLogger(name, logPath string) {
 	}
 }
 
+func init() {
+	var err error
+	tmpLog, err = os.OpenFile("./tmp.log", os.O_WRONLY|os.O_APPEND|os.O_CREATE, 0666)
+	if err != nil {
+		writeTmpLog()
+	}
+	logFile = tmpLog
+}
+
 func Error(v ...interface{}) {
 	checkLogFile()
 	line := getCodeLine(2)
@@ -79,5 +88,5 @@ func writeTmpLog() {
 	line := getCodeLine(3)
 	t := getTimeFormat()
 	warning := fmt.Sprint("ERROR! ", t, " logfile not init ", line)
-	fmt.Println(warning)
+	fmt.Fprintln(tmpLog, warning)
 }
